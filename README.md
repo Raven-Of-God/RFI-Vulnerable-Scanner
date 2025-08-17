@@ -31,6 +31,6 @@
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/kullanici/rfi-lfi-scanner.git
-cd rfi-lfi-scanner
-pip install -r requirements.txt
+git clone https://github.com/Raven-Of-God/RFİ-Vulnerable-Scanner
+cd RFİ-Vulnerable-Scanner
+python3 lfi.py
